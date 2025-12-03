@@ -1,0 +1,21 @@
+.one{
+     color: blue;
+     text-decoration: underline;
+     text-align: center;
+     text-transform: capitalize;
+     word-spacing: 11px;
+}
+.two{
+    color: purple;
+    text-decoration: none;
+    text-align: right;
+    text-transform: lowercase;
+    letter-spacing: 10px;
+}
+.three{
+    color: palevioletred;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    word-spacing: 9px;
+}
