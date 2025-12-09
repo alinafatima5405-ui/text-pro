@@ -19,3 +19,10 @@
     text-transform: uppercase;
     word-spacing: 9px;
 }
+.four{
+    color: cornflowerblue;
+    text-align: end;
+    text-transform: uppercase;
+    text-decoration: underline;
+    word-spacing: 16px;
+}
